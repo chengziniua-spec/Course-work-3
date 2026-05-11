@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","Bidlake2020MentalRepresentations","Heinonen2023MentalModels","Naps2002VisualizationEngagement","NavarroPrieto2001VisualProgramming","Noone2018VisualTextualLanguages","Pearson2019HumanImagination","Petre1999MentalImagery","Price1993Taxonomy","Sorva2013NotionalMachines","Sorva2013ProgramVisualization"]});
